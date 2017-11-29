@@ -6,7 +6,7 @@ After I tried and improve, this is the result that I'm going to present for fina
 I put all the comment to understand my code. 
 
 The bref work flow of this tank is -
-It's know where
+ * It's know where
  * the enemies are and can lock to the target and shoot 
  * according to the distance.  
 
